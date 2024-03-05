@@ -1,1 +1,3 @@
 # DetectionUsingDeepLearning
+
+Ovaj projekat koristi princip detekcije i prepoznavanja cigareta kako bi se izvršila detekcija i prepoznavanje spomenika na slici. Za ovaj projekat je korišćena biblioteka TensorFlow i Keras, sa metodom Mask R-CNN (Mask Regions with Convolutional Neural Networks) za detekciju i segmentaciju objekata. Cilj projekta je da se detektuju i prepoznaju različiti spomenici na slici, sa primenom na realne slike u različitim scenarijima. Projekat je podeljen u nekoliko delova, uključujući pripremu podataka, treniranje modela, evaluaciju modela i korišćenje modela za detekciju spomenika na slici.
